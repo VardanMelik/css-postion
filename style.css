@@ -1,0 +1,21 @@
+body {}
+
+.parent {
+    position: relative;
+    height: 200vh;
+    background-color: blue;
+}
+
+.child-one {
+    position: sticky;
+    top: 0px;
+    background-color: green;
+}
+
+.child-two {
+    background-color: hotpink;
+}
+
+.child-three {
+    background-color: red;
+}
